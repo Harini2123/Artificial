@@ -1,0 +1,2 @@
+# Artificial
+DIABETES PREDICTION SYSTEM
